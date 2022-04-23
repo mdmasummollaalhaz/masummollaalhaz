@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="235" height="39" viewBox="0 0 235 39">
+  <g id="Group_13" data-name="Group 13" transform="translate(-196 -124)">
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="137" height="38" transform="translate(196 125)" fill="none"/>
+    <text id="EPOCODER" transform="translate(217.5 144.5)" fill="#fff" stroke="#fff" stroke-width="1.5" font-size="18" font-family="SegoeUI, Segoe UI" letter-spacing="0.18em"><tspan x="0" y="0">EPOCODER</tspan></text>
+    <text id="HIRE_US" data-name="HIRE US" transform="translate(345.5 149.5)" fill="#fff" stroke="#fff" stroke-width="1.5" font-size="18" font-family="SegoeUI, Segoe UI" letter-spacing="0.18em"><tspan x="0" y="0">HIRE</tspan><tspan y="0" font-family="SutonnyOMJ"> </tspan><tspan y="0">US</tspan></text>
+    <g id="Group_1" data-name="Group 1" transform="translate(-5)">
+      <text id="P" transform="translate(209.5 144.5)" fill="#8bc34a" stroke="#8bc34a" stroke-width="1.5" font-size="18" font-family="SegoeUI, Segoe UI" letter-spacing="0.15em"><tspan x="0" y="0">P</tspan></text>
+      <line id="Line_1" data-name="Line 1" x1="2" transform="translate(208.7 131.7)" fill="none" stroke="#8bc34a" stroke-width="1.1"/>
+      <line id="Line_2" data-name="Line 2" x2="4" transform="translate(207.5 134.8)" fill="none" stroke="#8bc34a" stroke-width="1.1"/>
+      <line id="Line_3" data-name="Line 3" x1="4" transform="translate(207.5 137.7)" fill="none" stroke="#8bc34a" stroke-width="1.1"/>
+      <line id="Line_8" data-name="Line 8" x1="1" transform="translate(205.5 137.7)" fill="none" stroke="#8bc34a" stroke-width="1.1"/>
+      <line id="Line_4" data-name="Line 4" x1="4" transform="translate(207.5 140.2)" fill="none" stroke="#8bc34a" stroke-width="1.1"/>
+      <line id="Line_5" data-name="Line 5" x1="4" transform="translate(206.5 142.5)" fill="none" stroke="#8bc34a" stroke-width="1.1"/>
+      <line id="Line_7" data-name="Line 7" x1="1" transform="translate(204.5 142.5)" fill="none" stroke="#8bc34a" stroke-width="1.1"/>
+      <line id="Line_6" data-name="Line 6" x1="3" transform="translate(208.5 144.7)" fill="none" stroke="#8bc34a" stroke-width="1.1"/>
+    </g>
+    <text id="WEB" transform="translate(201 158)" fill="#fff" font-size="9.5" font-family="SegoeUI, Segoe UI" letter-spacing="0.6em"><tspan x="0" y="0">WEB</tspan></text>
+    <text id="SOLUTION" transform="translate(245 158)" fill="#fff" font-size="9.5" font-family="SegoeUI, Segoe UI" letter-spacing="0.6em"><tspan x="0" y="0">SOLUTION</tspan></text>
+  </g>
+</svg>
