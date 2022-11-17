@@ -1600,10 +1600,3 @@ hr {
         font-size: 14px;
     }
 }
-@media (min-width: 1025px) and (max-width: 1280px) {
-  
-     .col-12.col-lg-8.home-content.text-center {
-    margin-left: -320px;
-}
-  
-}
